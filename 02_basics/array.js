@@ -10,3 +10,4 @@
 // const num2=200;
 // const num3=300;
 // console.log(Array.of(num1,num2,num3));
+//javascript n sikhno hai to sikhliyo object or events;
